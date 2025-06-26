@@ -5,8 +5,8 @@ Take a look at my projects, skills, and experience — all in one interactive sp
 
 ## 🌐 Live Demo
 
-👉 [**Check out the live site here**](https://aditiarya.netlify.app/)  
-(Deploying soon to [Vercel](https://vercel.com) for blazing-fast performance!)
+👉 [**Check out the live site here**]((https://yashvardhan-portfolio-website.vercel.app/))  
+
 
 ---
 
