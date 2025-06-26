@@ -5,7 +5,7 @@ Take a look at my projects, skills, and experience — all in one interactive sp
 
 ## 🌐 Live Demo
 
-👉 [**Check out the live site here**]((https://yashvardhan-portfolio-website.vercel.app/))  
+👉 [**Check out the live site here**](https://yashvardhan-portfolio-website.vercel.app/)
 
 
 ---
