@@ -1,10 +1,42 @@
-# 🌟 Aditi Arya  
+# 🚀 Yashvardhan Singh | Portfolio Website
 
-### 👩‍💻 Welcome to my personal portfolio!  
-Explore my work and projects below 👇👇👇  
+Welcome to my **personal developer portfolio** built with **Next.js**, **Tailwind CSS**, and modern UI libraries.  
+Take a look at my projects, skills, and experience — all in one interactive space! ✨
 
-🔗 [Check it out](https://aditiarya.netlify.app/)
+## 🌐 Live Demo
 
-# Yashvardhan Singh Portfolio
+👉 [**Check out the live site here**](https://aditiarya.netlify.app/)  
+(Deploying soon to [Vercel](https://vercel.com) for blazing-fast performance!)
 
-**Note:** The resume file for Yashvardhan Singh should be named `resume.pdf` and placed in the `public/` directory for the download button to work.
+---
+
+## 📄 Resume
+
+📌 To download my resume, make sure the file `resume.pdf` is placed inside the `public/` folder.  
+This enables the download button on the website to function correctly.
+
+---
+
+## ⚙️ Tech Stack
+
+- ⚛️ **React.js / Next.js**
+- 💨 **Tailwind CSS**
+- 🎨 **Framer Motion + Shadcn/UI**
+- 🔥 **Firebase**
+- 🧠 **AI APIs** (Vapi, Gemini)
+- 🌍 **Responsive & Mobile-Optimized**
+
+---
+
+## 📁 Folder Structure
+
+```bash
+.
+├── public/              # Static files (resume.pdf, images)
+├── src/
+│   ├── app/             # Next.js app directory
+│   ├── components/      # UI components (Navbar, Footer, etc.)
+│   ├── data/            # Portfolio data (skills, projects)
+│   └── styles/          # Global styles & theme
+├── next.config.js       # Next.js config
+└── README.md
