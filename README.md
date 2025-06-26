@@ -8,14 +8,6 @@ Take a look at my projects, skills, and experience — all in one interactive sp
 👉 [**Check out the live site here**](https://yashvardhan-portfolio-website.vercel.app/)
 
 
----
-
-## 📄 Resume
-
-📌 To download my resume, make sure the file `resume.pdf` is placed inside the `public/` folder.  
-This enables the download button on the website to function correctly.
-
----
 
 ## ⚙️ Tech Stack
 
