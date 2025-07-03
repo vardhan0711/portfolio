@@ -38,7 +38,6 @@ const Contact = () => {
           >
             Say Hello
           </a>
-          {/* Phone: +91-9636059346 is available in socialLinks */}
 
           <div className="mt-12 flex justify-center space-x-6">
             {Object.entries(socialLinks).map(([key, link], index) => (
@@ -52,7 +51,7 @@ const Contact = () => {
                 variants={contactItemVariants}
                 initial="hidden"
                 whileInView="visible"
-                custom={index + 2} // Start delay after main button
+                custom={index + 2}
                 viewport={{ once: true }}
               >
                 {React.cloneElement(link.icon, { size: 32 })}
