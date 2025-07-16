@@ -19,28 +19,27 @@ export const education = [
     duration: "2021 – Present",
     score: "CGPA: 7.4 (Till 5th Sem)",
   },
-  {
-    institution: "St. Johns Sr. Sec. School, Kota",
-    degree: "Class 12th",
-    duration: "2019 – 2021",
-    score: "73%",
-  },
-  {
-    institution: "Modern Sr. Sec. School, Kota",
-    degree: "Class 10th",
-    duration: "2017 – 2019",
-    score: "93.4%",
-  },
+
 ];
 
 export const projects = [
+    {
+    title: "Splitsy-AI powered expense spliter",
+    tech: ["HTML", "CSS", "JavaScript","Tailwind","Node Js","Next Js","Convex","Clerk","Gemini AI","Vercel"],
+    description: "Smart web application designed to simplify and manage group and personal expenses",
+    date: "2025",
+    githubLink: "https://github.com/vardhan0711/",
+    liveLink: "https://splitsy-gamma.vercel.app/",
+    category: "Web App",
+    icon: <FaReact size={24} className="text-accent-1"/>
+  },
   {
     title: "PrepView – AI Interviewer",
-    tech: ["Next.js", "Firebase", "Tailwind", "Vapi AI", "Google Gemini"],
+    tech: ["HTML", "CSS", "JavaScript","Node Js","Next.js", "Firebase", "Tailwind", "Vapi AI", "Gemini AI"],
     description: "AI-powered mock interview platform for students and professionals. Generates real-time interview questions and feedback using LLMs.",
     date: "2025",
-    githubLink: null,
-    liveLink: "#", // Replace with actual demo link if available
+    githubLink: "https://github.com/vardhan0711/smart-interviewer",
+    liveLink: "https://prepview-web.vercel.app/sign-up", // Replace with actual demo link if available
     category: "AI/Web",
     icon: <FaReact size={24} className="text-accent-1"/>
   },
@@ -54,6 +53,7 @@ export const projects = [
     category: "Web App",
     icon: <FaReact size={24} className="text-accent-1"/>
   },
+  
 ];
 
 export const skills = {
